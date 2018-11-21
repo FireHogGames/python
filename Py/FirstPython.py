@@ -3,4 +3,4 @@ import sys
 import os
 
 
-echo ('Test')
+print ('Test')
